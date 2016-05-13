@@ -1,0 +1,1 @@
+# Genetic algorithms can effectively be used to find the maxima/minima of a function, by searching the function variable space to find the global optimum. This project is to simulate natural selection via the genetic algorithm, and find out the global minimum of some math functions.
