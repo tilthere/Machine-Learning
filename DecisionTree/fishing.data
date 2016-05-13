@@ -1,0 +1,22 @@
+2
+T: Yes No
+4
+A: Wind 2 Strong Weak
+A: Water 3 Warm Moderate Cold
+A: Air 2 Warm Cool
+A: Forecast 3 Sunny Cloudy Rainy
+14
+D: Strong Warm Warm Sunny Yes
+D: Weak Warm Warm Sunny No
+D: Strong Warm Warm Cloudy Yes
+D: Strong Moderate Warm Rainy Yes
+D: Strong Cold Cool Rainy No
+D: Weak Cold Cool Rainy No
+D: Weak Cold Cool Sunny No
+D: Strong Moderate Warm Sunny Yes
+D: Strong Cold Cool Sunny Yes
+D: Strong Moderate Cool Rainy No
+D: Weak Moderate Cool Sunny Yes
+D: Weak Moderate Warm Sunny Yes
+D: Strong Warm Cool Sunny Yes
+D: Weak Moderate Warm Rainy No
